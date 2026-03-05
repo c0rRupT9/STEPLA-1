@@ -1,0 +1,14 @@
+Instruction,Syntax,Meaning
+MOVI,"MOVI reg, value",reg = immediate value
+MOV,"MOV dest, src",Copy register to register
+ADD,"ADD dest, src",dest = dest + src (sets Carry & Zero)
+SUB,"SUB dest, src",dest = dest - src (sets Carry & Zero)
+OUT,OUT reg,Display register on output
+STRD,"STRD addr_reg, data_reg",DRAM[addr_reg] = data_reg
+LDD,"LDD data_reg, addr_reg",data_reg = DRAM[addr_reg]
+LDIM,"LDIM reg, value",reg = immediate value (alternative to MOVI)
+STIM,"STIM addr_reg, value",DRAM[addr_reg] = immediate value
+JMP,JMP label,Unconditional jump
+JZ,JZ label,Jump if Zero flag set
+JC,JC label,Jump if Carry flag set
+HLT,HLT,Halt execution
