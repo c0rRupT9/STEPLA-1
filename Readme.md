@@ -5,7 +5,7 @@ and simulated in Logisim-Evolution, built entirely
 from individual logic gates down to the gate level.
 
 **Version:** 2.4.2  
-**Status:** Simulation complete — physical breadboard build in progress
+**Status:** Under Development
 
 ---
 
