@@ -7,6 +7,9 @@ from individual logic gates down to the gate level.
 **Version:** 2.4.2  
 **Status:** Under Development
 
+<img width="1515" height="919" alt="Screenshot 2026-03-05 232709" src="https://github.com/user-attachments/assets/8a739096-638d-42d2-be40-ec475d54e9d8" />
+<img width="1511" height="920" alt="Screenshot 2026-03-08 092939" src="https://github.com/user-attachments/assets/70fe7c40-bf39-4a41-a5a1-c4c612bf593f" />
+
 ---
 
 ## What Is STEPLA-1?
