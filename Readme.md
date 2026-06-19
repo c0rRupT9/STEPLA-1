@@ -151,7 +151,7 @@ The full **43-page specification** covers:
 - Timing analysis with real component datasheets
 - Known limitations and v3.0 roadmap
 
-📄 **[Read the Full Specification](/STEPLA-1 Control Unit Design Specifictation Manual v2.4.2.pdf)**
+📄 **[Read the Full Specification](/STEPLA-1%20Control%20Unit%20Design%20Specification%20v2.4.2.pdf)**
 
 ---
 
