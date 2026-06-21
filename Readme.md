@@ -228,3 +228,6 @@ This project is open source.
 [MIT License](LICENSE)
 
 ---
+
+
+mail me at tcf.dik@gmail.com for any queries. 
