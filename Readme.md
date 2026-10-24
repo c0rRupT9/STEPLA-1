@@ -106,10 +106,8 @@ electronics market. The simulation IS the schematic.
 ```
 STEPLA-1/
 ├── simulation/
-│   ├── STEPLA-1.circ          # Main Logisim-Evolution file
-│   ├── control_unit.circ      # Control unit subcircuit
-│   ├── register_file.circ     # Register selector subcircuit
-│   └── BCU.circ               # Bootstrap control unit
+│   ├── 8bitcomp.circ          # Main Logisim-Evolution file
+│   └── STEPLA_1.circ          # Same CPU using Native Logisim Components           
 ├── programs/
 │   ├── fibonacci.asm          # Fibonacci sequence demo
 │   └── counter.asm            # Basic counter program
@@ -186,7 +184,7 @@ critical path: 101ns, half-cycle budget: 125ns at 4 MHz)
 
 **v3.0.0 (planned)**
 - 16-bit instruction word
-- 16-register general purpose file
+- 8-register general purpose file
 - Hardware stack (PUSH/POP/CALL/RET)
 - Dual asynchronous control units
 - Pre-fetch buffer approaching 1.0 CPI
